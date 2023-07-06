@@ -6,7 +6,6 @@
    tags: provisioning
 
    vars:
-     keypair: autoscale
      instance_type: t2.micro
      image: ami-04823729c75214919
      wait: yes
