@@ -6,7 +6,7 @@
    tags: provisioning
 
    vars:
-     keypair: ansible-new
+     keypair: newkey
      instance_type: t2.micro
      image: ami-04823729c75214919
      wait: yes
